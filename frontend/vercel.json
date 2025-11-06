@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:path*",
+      "destination": "https://epharmacy-full-stack-cu.onrender.com/api/:path*"
+    }
+  ]
+}
